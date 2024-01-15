@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWop09VTaoPdAEM9iWURzlhJ1rJXlZP9UOhrUokGUTfMx1XfNYRVXn5zggPqiXTFioP6YUGXpM0UUjKaNB_LOuES7MJCRFUJNbDfwn2odKJNNJzwchZ93_Y9B19dQjSixGOBznklMcJoAuTexEfBEHBnWTHfMovcKVot8dqiQ1GzKCTwR2bYP24YWr/s1600/IO23_Blog_Banner_Ai@2x.png)]
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate ML/Data Science Geek from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
