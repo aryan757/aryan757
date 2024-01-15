@@ -21,6 +21,10 @@
 
 - 📫 How to reach me **aryan215gupta@gmail.com**
 
+- 📎 Microsoft learner profile at **https://learn.microsoft.com/en-us/users/aryan-7047/**
+
+- Connect me on Topmate.io at **https://topmate.io/aryan11**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KRFxJU5LkqLQphrxDq72JZ3nEggkgCYR/view?usp=sharing](https://drive.google.com/file/d/1KRFxJU5LkqLQphrxDq72JZ3nEggkgCYR/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny !**
