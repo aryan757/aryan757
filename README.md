@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate ML/Data Science Geek from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan757&label=Profile%20views&color=0e75b6&style=flat" alt="aryan757" /> </p>
 
