@@ -21,13 +21,15 @@ aryan = {
     "role"       : "ML Engineer @ STMicroelectronics",
     "learning"   : ["GenAI", "MLOps"],
     "interests"  : ["LLMs", "Computer Vision", "NLP", "R&D", "DevOps"],
-    "reach_me"   : "aryan215gupta@gmail.com",
+    "reach_me"   : "aryanagrahari215@gmail.com | +91 99734 25009",
     "fun_fact"   : "I think I am funny! 😄"
 }
 ```
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+- 🌐 Portfolio: [aryan757.github.io/Portfolio](https://aryan757.github.io/Portfolio/)
+- 📺 YouTube: [@vgiskill](https://www.youtube.com/@vgiskill/videos)
 - 🔭 Currently working at **STMicroelectronics**
 - 🌱 Deep-diving into **Generative AI & MLOps**
 - 👯 Open to collaborate on **ML / DL / LLMs / GenAI / CV / NLP / DevOps**
@@ -41,20 +43,29 @@ aryan = {
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://twitter.com/aryanag61275349" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://aryan757.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aryan-agrahari-b13624150/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:aryanagrahari215@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/aryanag61275349" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@vgiskill/videos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
   <a href="https://instagram.com/aryan_agrahari_215" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://topmate.io/aryan11" target="_blank">
-    <img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhIMTF2OHptNCAwaC0yVjhoMnY4eiIvPjwvc3ZnPg==&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/aryan215gupta/" target="_blank">
+  <a href="https://leetcode.com/u/aryan215gupta/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://topmate.io/aryan11" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logo=calendly&logoColor=white" />
   </a>
   <a href="https://learn.microsoft.com/en-us/users/aryan-7047/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -132,7 +143,9 @@ aryan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryan757&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aryan757&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  </a>
 </div>
 
 ---
