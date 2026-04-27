@@ -35,8 +35,8 @@ aryan = {
 - 👯 Open to collaborate on **ML / DL / LLMs / GenAI / CV / NLP / DevOps**
 - 📝 I write about AI/ML on [LinkedIn](https://www.linkedin.com/in/aryan-agrahari-b13624150/recent-activity/all/)
 - 🏆 Microsoft Learn profile: [learn.microsoft.com](https://learn.microsoft.com/en-us/users/aryan-7047/)
-- 💬 Book a 1:1 with me on [Topmate](https://topmate.io/aryan11)
-- 📄 [View my Resume](https://drive.google.com/file/d/13Dyx_UdYF0VDEn-ngvClK60jyfHXbTMz/view?usp=sharing)
+
+
 
 ---
 
@@ -139,12 +139,11 @@ aryan = {
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aryan757&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aryan757&row=2&column=3" />
   </a>
 </div>
 
