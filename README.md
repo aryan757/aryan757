@@ -1,49 +1,144 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate ML/Data Science Geek from India.</h3>
-<img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan757&label=Profile%20views&color=0e75b6&style=flat" alt="aryan757" /> </p>
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan757" alt="aryan757" /></a> </p>
+# Hi there, I'm Aryan 👋
 
-<p align="left"> <a href="https://twitter.com/aryanag61275349" target="blank"><img src="https://img.shields.io/twitter/follow/aryanag61275349?logo=twitter&style=for-the-badge" alt="aryanag61275349" /></a> </p>
+### ML Engineer · Data Scientist · GenAI Explorer
 
-- 🔭 I’m currently working on **STmicroelectronics**
+<img src="https://komarev.com/ghpvc/?username=aryan757&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+&nbsp;
+<a href="https://twitter.com/aryanag61275349"><img src="https://img.shields.io/twitter/follow/aryanag61275349?logo=twitter&style=flat-square&color=1DA1F2&labelColor=0d1117" alt="Twitter Follow" /></a>
 
-- 🌱 I’m currently learning **GenAI & MLops**
+</div>
 
-- 👯 I’m looking to collaborate on **ML/DL/LLMs/Devops/MLops/GenAI/CV/NLP/R&D**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryan757?tab=repositories](https://github.com/aryan757?tab=repositories)
+## 🧠 About Me
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aryan-agrahari-b13624150/recent-activity/all/](https://www.linkedin.com/in/aryan-agrahari-b13624150/recent-activity/all/)
+```python
+aryan = {
+    "role"       : "ML Engineer @ STMicroelectronics",
+    "learning"   : ["GenAI", "MLOps"],
+    "interests"  : ["LLMs", "Computer Vision", "NLP", "R&D", "DevOps"],
+    "reach_me"   : "aryan215gupta@gmail.com",
+    "fun_fact"   : "I think I am funny! 😄"
+}
+```
 
-- 📫 How to reach me **aryan215gupta@gmail.com**
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 📎 Microsoft learner profile at **https://learn.microsoft.com/en-us/users/aryan-7047/**
+- 🔭 Currently working at **STMicroelectronics**
+- 🌱 Deep-diving into **Generative AI & MLOps**
+- 👯 Open to collaborate on **ML / DL / LLMs / GenAI / CV / NLP / DevOps**
+- 📝 I write about AI/ML on [LinkedIn](https://www.linkedin.com/in/aryan-agrahari-b13624150/recent-activity/all/)
+- 🏆 Microsoft Learn profile: [learn.microsoft.com](https://learn.microsoft.com/en-us/users/aryan-7047/)
+- 💬 Book a 1:1 with me on [Topmate](https://topmate.io/aryan11)
+- 📄 [View my Resume](https://drive.google.com/file/d/13Dyx_UdYF0VDEn-ngvClK60jyfHXbTMz/view?usp=sharing)
 
-- Connect me on Topmate.io at **https://topmate.io/aryan11**
+---
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1KRFxJU5LkqLQphrxDq72JZ3nEggkgCYR/view?usp=sharing](https://drive.google.com/file/d/13Dyx_UdYF0VDEn-ngvClK60jyfHXbTMz/view?usp=sharing)]
+## 🌐 Connect With Me
 
-- ⚡ Fun fact **I think I am Funny !**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryanag61275349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanag61275349" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan-agrahari-b13624150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-agrahari-b13624150/" height="30" width="40" /></a>
-<a href="https://instagram.com/aryan_agrahari_215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan215gupta" height="30" width="40" /></a>
-<a href="https://medium.com/https://learn.microsoft.com/en-us/users/aryan-7047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://learn.microsoft.com/en-us/users/aryan-7047/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aryan215gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aryan215gupta/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://topmate.io/aryan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://topmate.io/aryan11" height="30" width="40" /></a>
+<p>
+  <a href="https://twitter.com/aryanag61275349" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aryan-agrahari-b13624150/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aryan_agrahari_215" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://topmate.io/aryan11" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhIMTF2OHptNCAwaC0yVjhoMnY4eiIvPjwvc3ZnPg==&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aryan215gupta/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/aryan-7047/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan757&show_icons=true&locale=en&layout=compact" alt="aryan757" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan757&show_icons=true&locale=en" alt="aryan757" /></p>
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan757&" alt="aryan757" /></p>
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+</p>
+
+### 🔧 Backend & Tools
+<p>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryan757&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan757&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan757&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryan757&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it." — Alan Kay*
+
+</div>
