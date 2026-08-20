@@ -29,7 +29,7 @@ aryan = {
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🌐 Portfolio: [aryan757.github.io/Portfolio](https://aryan757.github.io/Portfolio/)
-- 📺 YouTube: [@vgiskill](https://www.youtube.com/@vgiskilllab/videos)
+- 📺 YouTube: [@vgiskilllab](https://www.youtube.com/@vgiskilllab/videos)
 - 🔭 Currently working at **STMicroelectronics**
 - 🌱 Deep-diving into **Generative AI & MLOps**
 - 👯 Open to collaborate on **ML / DL / LLMs / GenAI / CV / NLP / DevOps**
@@ -55,7 +55,7 @@ aryan = {
   <a href="https://twitter.com/aryanag61275349" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@vgiskill/videos" target="_blank">
+  <a href="https://www.youtube.com/@vgiskilllab/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
   <a href="https://instagram.com/aryan_agrahari_215" target="_blank">
