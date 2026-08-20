@@ -29,7 +29,7 @@ aryan = {
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🌐 Portfolio: [aryan757.github.io/Portfolio](https://aryan757.github.io/Portfolio/)
-- 📺 YouTube: [@vgiskill](https://www.youtube.com/@vgiskill/videos)
+- 📺 YouTube: [@vgiskill](https://www.youtube.com/@vgiskilllab/videos)
 - 🔭 Currently working at **STMicroelectronics**
 - 🌱 Deep-diving into **Generative AI & MLOps**
 - 👯 Open to collaborate on **ML / DL / LLMs / GenAI / CV / NLP / DevOps**
